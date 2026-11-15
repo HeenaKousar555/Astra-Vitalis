@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Personal backup
+app_backup.py
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
